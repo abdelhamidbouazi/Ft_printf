@@ -23,6 +23,7 @@ int main(void) {
     ft_printf("Integer: %d\n", 42);
     ft_printf("Hexadecimal: %x\n", 0x1234abcd);
     return 0;
+    
 }
 ```
 
