@@ -24,6 +24,7 @@ int main(void) {
     ft_printf("Hexadecimal: %x\n", 0x1234abcd);
     return 0;
 }
+```
 
 ## Contributing
 
